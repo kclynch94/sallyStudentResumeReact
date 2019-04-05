@@ -1,0 +1,12 @@
+.right {
+    float: right;
+  }
+  
+  h4 {
+    display: inline-block;
+  }
+  
+  li {
+    display: inline;
+    padding: 20px;
+  }
